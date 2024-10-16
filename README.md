@@ -26,8 +26,9 @@ Basic online-shop using React and Next.js
 
 2. Install all dependencies:
 
+```bash
 npm install
 
 3. Run the project:
-
+```bash
 npm run dev
