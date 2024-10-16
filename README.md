@@ -24,11 +24,8 @@ Basic online-shop using React and Next.js
    ```bash
    git clone 
 
-2. Install all dependencies:
+2. Install all dependencies and run the project:
 
 ```bash
 npm install
-
-3. Run the project:
-```bash
 npm run dev
