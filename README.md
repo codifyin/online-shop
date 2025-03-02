@@ -1,4 +1,4 @@
-# online-shop
+# Online-shop
 
 Basic online-shop using React and Next.js
 
